@@ -1,64 +1,67 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Stefan Uddenberg
 
 # Username (this should match the folder name)
 authors:
-- admin
+  - admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Principal Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+  - name: University of Chicago <br> Booth School of Business
+    url: "https://research.chicagobooth.edu/cdr/post-doctoral/stefan-uddenberg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Principal Researcher at Chicago Booth. My research interests include mental defaults, face perception, and intuitive physics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+  - Visual Cognition
+  - Face Perception
+  - Mental Defaults (aka priors)
+  - Intuitive Physics
+  - Visual Communication
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    - course: PhD in Cognitive Psychology
+      institution: Yale University
+      year: 2018
+    - course: M.Phil in Cognitive Psychology
+      institution: Yale University
+      year: 2016
+    - course: M.S. in Cognitive Psychology
+      institution: Yale University
+      year: 2015
+    - course: B.A. in Cognitive Science & Japanese Studies
+      institution: Dartmouth College
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact" # For a direct email link, use "mailto:test@example.org".
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/stefanuddenberg
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=cQuFlvcAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/stefanuddenberg
+  - icon: cv
+    icon_pack: ai
+    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,10 +69,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am a Principal Researcher at Chicago Booth, working on questions of social perception (with <a href="https://www.chicagobooth.edu/faculty/directory/t/alexander-todorov" target="_blank">Alex Todorov</a>). Most recently, I've been working on building new face perception models, such that we can generate hyper-realistic faces, and manipulate both synthetic and real faces along social traits of psychological interest.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to joining Booth, I started out my postdoc at Princeton (still with Alex). Before that, I did my graduate work at Yale with <a href="http://perception.yale.edu/Brian/">Brian Scholl</a> at the <a href="http://perception.yale.edu/" target="_blank">Perception &amp; Cognition lab</a>. I also spent time as a research assistant working with <a href="https://cnir.ibs.re.kr/_prog/_personnel/?mode=V&user_mng_no=7505&site_dvs_cd=cnir_en&menu_dvs_cd=0202&posi_dvs_cd=922" target="_blank">Won Mok Shim</a> in the Visual Perception &amp; Cognition Lab at Dartmouth College, which is also my undergraduate alma mater. I majored in Cognitive Science, Japanese Studies, and <a href="https://open.spotify.com/track/6pbc9VmH1tb9YBEtZ7iMHj" target="_blank">"A Cappella Studies"</a>. In my spare time, <a href="https://openmind.press/" target="_blank">I also fight fake news</a>.

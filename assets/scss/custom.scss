@@ -1,0 +1,35 @@
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6 {
+  color: #fff;
+}
+
+// Fix PDF and DOI buttons having text color the same as highlight color
+.dark .btn:hover {
+  color: #fff !important;
+}
+
+.dark .navbar .navbar-nav .nav-link.active {
+  color: #6AD6FF !important;
+}
+
+.dark .navbar .navbar-nav .nav-link:hover {
+  color: #00b7ff !important;
+}
+
+.dark .article-metadata {
+  color: rgb(248, 248, 248);
+}
+
+// Remove watermark
+.powered-by {
+  display: none;
+}
+
+// Make note for paper with Joan
+.weak {
+  color: rgba(255, 255, 255, 0.54)
+}
