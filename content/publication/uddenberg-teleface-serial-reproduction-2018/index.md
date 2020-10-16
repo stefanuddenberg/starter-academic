@@ -51,5 +51,5 @@ abstract:
   \ (c) 2018 APA, all rights reserved)"
 publication: "*Journal of Experimental Psychology: General*"
 doi: 10.1037/xge0000446
-url_pdf: "files/Uddenberg-Scholl-218-JEPG-TeleFace.pdf"
+url_pdf: "files/Uddenberg-Scholl-2018-JEPG-TeleFace.pdf"
 ---

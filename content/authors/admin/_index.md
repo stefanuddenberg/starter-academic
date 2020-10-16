@@ -32,12 +32,12 @@ education:
     - course: PhD in Cognitive Psychology
       institution: Yale University
       year: 2018
-    - course: M.Phil in Cognitive Psychology
-      institution: Yale University
-      year: 2016
-    - course: M.S. in Cognitive Psychology
-      institution: Yale University
-      year: 2015
+    # - course: M.Phil in Cognitive Psychology
+    #   institution: Yale University
+    #   year: 2016
+    # - course: M.S. in Cognitive Psychology
+    #   institution: Yale University
+    #   year: 2015
     - course: B.A. in Cognitive Science & Japanese Studies
       institution: Dartmouth College
       year: 2011
@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact" # For a direct email link, use "mailto:test@example.org".
+    link: "mailto:stefan.uddenberg@chicagobooth.edu" # "#contact"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/stefanuddenberg
@@ -73,6 +73,6 @@ user_groups:
   - Visitors
 ---
 
-Hello! I am a Principal Researcher at Chicago Booth, working on questions of social perception (with <a href="https://www.chicagobooth.edu/faculty/directory/t/alexander-todorov" target="_blank">Alex Todorov</a>). Most recently, I've been working on building new face perception models, such that we can generate hyper-realistic faces, and manipulate both synthetic and real faces along social traits of psychological interest.
+Hello! I am a Postdoctoral Researcher at Chicago Booth, working on questions of social perception (with <a href="https://www.chicagobooth.edu/faculty/directory/t/alexander-todorov" target="_blank">Alex Todorov</a>). My primary research program explores the default assumptions wired into the mind, especially in the context of perception. It turns out that what we see is a process of unconscious inferences, where we take into account not only the exact nature of the light entering our eyes, but also a set of assumptions about the source that most likely generated or reflected that light. It is now becoming possible to reveal the nature of these assumptions through various techniques. My preferred technique is the method of serial reproduction — essentially the children’s game of ‘Broken Telephone’ — which I use to explore our default assumptions across several visual contexts, ranging from faces to intuitive physics.
 
 Prior to joining Booth, I started out my postdoc at Princeton (still with Alex). Before that, I did my graduate work at Yale with <a href="http://perception.yale.edu/Brian/">Brian Scholl</a> at the <a href="http://perception.yale.edu/" target="_blank">Perception &amp; Cognition lab</a>. I also spent time as a research assistant working with <a href="https://cnir.ibs.re.kr/_prog/_personnel/?mode=V&user_mng_no=7505&site_dvs_cd=cnir_en&menu_dvs_cd=0202&posi_dvs_cd=922" target="_blank">Won Mok Shim</a> in the Visual Perception &amp; Cognition Lab at Dartmouth College, which is also my undergraduate alma mater. I majored in Cognitive Science, Japanese Studies, and <a href="https://open.spotify.com/track/6pbc9VmH1tb9YBEtZ7iMHj" target="_blank">"A Cappella Studies"</a>. In my spare time, <a href="https://openmind.press/" target="_blank">I also fight fake news</a>.
