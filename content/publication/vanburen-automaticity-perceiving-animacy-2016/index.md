@@ -2,14 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title:
-  "The Automaticity of Perceiving Animacy: Goal-Directed Motion in Simple Shapes
-  Influences Visuomotor Behavior Even When Task-Irrelevant"
+  "The automaticity of perceiving animacy: Goal-directed motion in simple shapes
+  influences visuomotor behavior even when task-irrelevant"
 subtitle: ""
 summary: ""
 authors:
-  - Benjamin van Buren
-  - admin
-  - Brian J. Scholl
+  - van Buren, B., __Uddenberg, S.__, &amp; Scholl, B. J.
 categories: []
 date: "2016-06-01"
 lastmod: 2020-09-13T22:14:59-05:00
@@ -55,7 +53,7 @@ abstract:
   influences downstream visuomotor behavior in an automatic manner, such that subjects
   cannot completely override the influences of seemingly animate shapes even while
   attempting to ignore them.
-publication: "*Psychonomic Bulletin & Review*"
+publication: "*Psychonomic Bulletin & Review*, *23*(3), 797-802"
 doi: 10.3758/s13423-015-0966-5
 url_pdf: "files/van-Buren-Uddenberg-Scholl-2016-PBR-Automaticity-of-perceiving-animacy.pdf"
 ---

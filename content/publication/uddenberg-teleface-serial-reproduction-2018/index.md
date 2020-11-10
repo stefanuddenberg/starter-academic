@@ -1,12 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Teleface: Serial Reproduction of Faces Reveals a Whiteward Bias in Race Memory"
+title: "Teleface: Serial reproduction of faces reveals a whiteward bias in race memory"
 subtitle: ""
 summary: ""
 authors:
-  - admin
-  - Brian J. Scholl
+  - __Uddenberg, S.__, &amp; Scholl, B. J.
 categories: []
 date: "2018-01-01"
 lastmod: 2020-09-13T22:14:58-05:00
@@ -49,7 +48,7 @@ abstract:
   \ bias in memory for race in White observers, perhaps contributing to the more general\
   \ notion in social cognition research of a `White default.' (PsycINFO Database Record\
   \ (c) 2018 APA, all rights reserved)"
-publication: "*Journal of Experimental Psychology: General*"
+publication: "*Journal of Experimental Psychology: General*, *147*(10), 1466-1487"
 doi: 10.1037/xge0000446
 url_pdf: "files/Uddenberg-Scholl-2018-JEPG-TeleFace.pdf"
 ---

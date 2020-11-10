@@ -2,13 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title:
-  "Seeing the World through Target-Tinted Glasses: Positive Mood Broadens Perceptual
-  Tuning"
+  "Seeing the world through target-tinted glasses: Positive mood broadens perceptual
+  tuning"
 subtitle: ""
 summary: ""
 authors:
-  - admin
-  - Won Mok Shim
+  - __Uddenberg, S.__, &amp; Shim, W. S.
 categories: []
 date: "2015-06-01"
 lastmod: 2020-09-13T22:14:59-05:00
@@ -45,7 +44,7 @@ abstract:
   observers' perceptual tuning relative to both neutral and negative affect conditions.
   These findings provide the first behavioral evidence that positive emotion influences
   selectivity for basic visual features through modulation of tuning properties.
-publication: "*Emotion*"
+publication: "*Emotion*, *15*(3), 1931-1516"
 doi: 10.1037/emo0000029
 url_pdf: "files/Uddenberg-Shim-2015-Emotion-Seeing-the-world-through-target-tinted-glasses.pdf"
 ---

@@ -1,17 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Paranoia as a Deficit in Non-Social Belief Updating
+title: Paranoia as a deficit in non-social belief updating
 subtitle: ""
 summary: ""
 authors:
-  - Erin J Reed
-  - admin
-  - Praveen Suthaharan
-  - Christoph D Mathys
-  - Jane R Taylor
-  - Stephanie Mary Groman
-  - Philip R Corlett
+  - Reed, Erin J., __Uddenberg, S.__, Suthaharan, P., Mathys, C. D., Taylor, J. R., Groman, S. M., &amp; Corlett, P. R.
+  # - Erin J Reed
+  # - admin
+  # - Praveen Suthaharan
+  # - Christoph D Mathys
+  # - Jane R Taylor
+  # - Stephanie Mary Groman
+  # - Philip R Corlett
 categories: []
 date: "2020-05-01"
 lastmod: 2020-09-13T22:14:57-05:00
@@ -50,6 +51,6 @@ abstract:
   environment. Our work provides evidence of fundamental, domain-general learning
   differences in paranoid individuals. This paradigm enables further assessment of
   the interplay between uncertainty and belief-updating across individuals and species.
-publication: "*eLife*"
+publication: "*eLife*, *9*, e56345"
 doi: 10.7554/eLife.56345
 ---
