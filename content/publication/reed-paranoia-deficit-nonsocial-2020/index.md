@@ -5,7 +5,7 @@ title: Paranoia as a deficit in non-social belief updating
 subtitle: ""
 summary: ""
 authors:
-  - Reed, Erin J., __Uddenberg, S.__, Suthaharan, P., Mathys, C. D., Taylor, J. R., Groman, S. M., &amp; Corlett, P. R.
+  - Reed, E. J., __Uddenberg, S.__, Suthaharan, P., Mathys, C. D., Taylor, J. R., Groman, S. M., &amp; Corlett, P. R.
   # - Erin J Reed
   # - admin
   # - Praveen Suthaharan

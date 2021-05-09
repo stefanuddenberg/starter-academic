@@ -70,6 +70,16 @@ subtitle = ""
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
 
+**Uddenberg, S.**, Kwak, J., &amp; Scholl, B. (2021).  Reconstructing physical representations of block towers in visual working memory. Poster presented at the 21st annual meeting of the _Vision Sciences Society_, 5/24/21.
+
+**Uddenberg, S.**, Thompson, B., Vlasceanu, M., Griffiths, T. L., &amp; Todorov, A. (2021). A face you can trust: Iterated learning reveals how stereotypes of facial trustworthiness may propagate in the absence of evidence. Talk given at Harvard University's Cognitive, Brain, and Behavior Research Seminar Series, 04/01/21.
+
+**Uddenberg, S.**, Thompson, B., Vlasceanu, M., Griffiths, T. L., &amp; Todorov, A. (2021). A face you can trust: Iterated learning reveals how stereotypes of facial trustworthiness may propagate in the absence of evidence. Talk given at the Johns Hopkins University Early Career Colloquium Series,03/17/21.
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://pbs.jhu.edu/event/early-career-colloquium-stefan-uddenberg/" target="_blank" rel="noopener">
+Abstract
+</a>
+
 **Uddenberg, S.**, Thompson, B., Vlasceanu, M., Griffiths, T. L., &amp; Todorov, A. (2020). A face you can trust: Iterated learning reveals how stereotypes of facial trustworthiness may propagate in the absence of evidence. Talk given at the University of Wisconsin-Madison Cognitive/Developmental Brownbag Series, 10/28/20.
 
 **Uddenberg, S.**, Thompson, B., Vlasceanu, M., Griffiths, T. L., &amp; Todorov, A. (2020). A face you can trust: Iterated learning reveals how stereotypes of facial trustworthiness may propagate in the absence of evidence. Talk given at the Stanford Graduate School of Business Rising Scholars Conference, 10/27/20.
