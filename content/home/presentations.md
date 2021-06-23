@@ -70,7 +70,7 @@ subtitle = ""
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
 
-**Uddenberg, S.**, Kwak, J., &amp; Scholl, B. (2021).  Reconstructing physical representations of block towers in visual working memory. Poster presented at the 21st annual meeting of the _Vision Sciences Society_, 5/24/21.
+**Uddenberg, S.**, Kwak, J., &amp; Scholl, B. (2021).  Reconstructing physical representations of block towers in visual working memory. Poster presented at the 21st annual meeting of the _Vision Sciences Society_, 05/24/21.
 
 **Uddenberg, S.**, Thompson, B., Vlasceanu, M., Griffiths, T. L., &amp; Todorov, A. (2021). A face you can trust: Iterated learning reveals how stereotypes of facial trustworthiness may propagate in the absence of evidence. Talk given at Harvard University's Cognitive, Brain, and Behavior Research Seminar Series, 04/01/21.
 
