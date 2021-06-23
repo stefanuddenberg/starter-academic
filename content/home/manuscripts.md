@@ -74,5 +74,3 @@ Colombatto, C., **Uddenberg, S.**, & Scholl, B. J. (under review). The efficienc
 **Uddenberg, S.**, & Scholl, B. J. (under review). Ten angry men: Serial reproduction reveals that angry faces are represented as more masculine.
 
 **Uddenberg, S.**, Newman, G. E., & Scholl, B. J. (under revision). Perceptual averaging in visual communication: Ensemble representations in the perception of scientific data in graphs.
-
-Suthaharan, P., Reed, E. J., Leptourgos, P., Kenney, J., **Uddenberg, S.**, Mathys, C. D., Litman, L., Robinson, J., Moss, A. J., Taylor, J. R., Groman, S. M., &amp; Corlett, P. R. (under review). Paranoia and belief updating during the COVID-19 crisis.
