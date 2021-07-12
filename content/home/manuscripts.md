@@ -66,11 +66,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+Peterson, J. C., **Uddenberg, S.**, Griffiths, T. L., Todorov, A., &amp; Suchow, J. W. (under review). Capturing and modifying the perceived traits of all possible faces.
 
-Colombatto, C., **Uddenberg, S.**, & Scholl, B. J. (under review). The efficiency of demography in face perception.
+**Uddenberg, S.**, &amp; Scholl, B. J. (under review). Angrier = Blacker?: The influence of emotional expression on the representation of race in faces, measured with serial reproduction.
 
-**Uddenberg, S.**, & Scholl, B. J. (under review). Angrier = Blacker?: The influence of emotional expression on the representation of race in faces, measured with serial reproduction.
+**Uddenberg, S.**, &amp; Scholl, B. J. (under review). Ten angry men: Serial reproduction reveals that angry faces are represented as more masculine.
 
-**Uddenberg, S.**, & Scholl, B. J. (under review). Ten angry men: Serial reproduction reveals that angry faces are represented as more masculine.
-
-**Uddenberg, S.**, Newman, G. E., & Scholl, B. J. (under revision). Perceptual averaging in visual communication: Ensemble representations in the perception of scientific data in graphs.
+**Uddenberg, S.**, Newman, G. E., &amp; Scholl, B. J. (under revision). Perceptual averaging in visual communication: Ensemble representations in the perception of scientific data in graphs.
