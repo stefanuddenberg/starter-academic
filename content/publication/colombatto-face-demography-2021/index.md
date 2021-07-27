@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Efficiency of Demography in Face Perception"
+title: "The efficiency of demography in face perception"
 subtitle: ""
 summary: ""
 authors:
