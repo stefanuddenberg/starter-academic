@@ -66,9 +66,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Peterson, J. C., **Uddenberg, S.**, Griffiths, T. L., Todorov, A., &amp; Suchow, J. W. (under review). Capturing and modifying the perceived traits of all possible faces.<br />
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/face-modeling-preprint.pdf" target="_blank" rel="noopener">Preprint</a>
-
 **Uddenberg, S.**, &amp; Scholl, B. J. (under review). Angrier = Blacker?: The influence of emotional expression on the representation of race in faces, measured with serial reproduction.
 
 **Uddenberg, S.**, &amp; Scholl, B. J. (under review). Ten angry men: Serial reproduction reveals that angry faces are represented as more masculine.
