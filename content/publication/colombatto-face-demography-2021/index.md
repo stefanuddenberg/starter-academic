@@ -11,7 +11,7 @@ date: "2021-07-12"
 lastmod: 2021-07-12T11:14:58-05:00
 featured: false
 draft: false
-custom_status: "in press"
+# custom_status: "in press"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -46,7 +46,7 @@ abstract:
   \ when the faces were matched for several lower-level visual properties.  Collectively, these results\
   \ demonstrate that the extraction of demographic features from faces is highly efficient, and can\
   \ truly be done at a glance."
-publication: "*Attention, Perception, &amp; Psychophysics*"
+publication: "*Attention, Perception, &amp; Psychophysics*, *83*(8), 3104-3117"
 # doi: 10.1037/xge0000446
 url_pdf: "files/Colombatto-EtAl-InPress-APP.pdf"
 ---

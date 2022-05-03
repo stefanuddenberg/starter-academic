@@ -70,6 +70,14 @@ subtitle = ""
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
 
+**Uddenberg, S.**, &amp; Todorov, A. (2022).  Exploring visual representations of race with deep generative models. Talk given at the 2022 Midwestern Psychological Association Conference, 04/21/22.
+
+**Uddenberg, S.**, &amp; Todorov, A. (2022). Revealing hidden biases in face representation via deceptively simple tasks. Talk given at Dartmouth College's Psychological &amp; Brain Sciences Department, 01/14/22.
+
+**Uddenberg, S.**, Thompson, B., Vlasceanu, M., Griffiths, T. L., &amp; Todorov, A. (2021). A face you can trust?: Iterated learning reveals how stereotypes of facial trustworthiness may propagate in the absence of evidence. Talk given at the University of Massachusetts-Amherst's Cognitive Brownbag, 11/17/21.
+
+**Uddenberg, S.**, Thompson, B., Vlasceanu, M., Griffiths, T. L., &amp; Todorov, A. (2021). A face you can trust?: Iterated learning reveals how stereotypes of facial trustworthiness may propagate in the absence of evidence. Talk given at Northwestern University's Cognitive Psychology Brownbag, 10/22/21.
+
 **Uddenberg, S.**, &amp; Todorov, A. (2021).  Modeling impressions of faces. Talk given at the No Name Face Perception Conference, 07/01/21.
 
 **Uddenberg, S.**, Kwak, J., &amp; Scholl, B. (2021).  Reconstructing physical representations of block towers in visual working memory. Poster presented at the 21st annual meeting of the _Vision Sciences Society_, 05/24/21.

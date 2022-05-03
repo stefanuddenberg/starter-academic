@@ -71,3 +71,7 @@ subtitle = ""
 **Uddenberg, S.**, &amp; Scholl, B. J. (under review). Ten angry men: Serial reproduction reveals that angry faces are represented as more masculine.
 
 **Uddenberg, S.**, Newman, G. E., &amp; Scholl, B. J. (under revision). Perceptual averaging in visual communication: Ensemble representations in the perception of scientific data in graphs.
+
+Bai, X., **Uddenberg, S.**, Labbree, B., &amp; Todorov, A. (under review). Insta-learn: Face stereotypes emerge and persist through insufficient statistical learning.
+
+Gandalf, N., **Uddenberg, S.**,  &amp; Todorov, A. (under review). A comprehensive semantic space for describing and evaluating faces.

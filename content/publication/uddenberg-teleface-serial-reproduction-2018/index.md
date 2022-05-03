@@ -32,9 +32,9 @@ publication_types:
 abstract:
   "How is race encoded into memory when viewing faces? Here we demonstrate\
   \ a novel systematic bias in which our memories of faces converge on certain prioritized\
-  \ regions in our underlying ``face space,'' as they relate to perceived race. This\
+  \ regions in our underlying 'face space,', as they relate to perceived race. This\
   \ convergence was made especially salient using a new visual variant of the method\
-  \ of serial reproduction: ``TeleFace.'' A single face was briefly presented, with\
+  \ of serial reproduction: 'TeleFace.' A single face was briefly presented, with\
   \ its race selected from a smooth continuum between White and Black (matched for\
   \ mean luminance). The observer then reproduced that face, using a slider to morph\
   \ a test face along this continuum. Their response was then used as the face initially\
