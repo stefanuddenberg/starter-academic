@@ -70,4 +70,4 @@ subtitle = ""
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
 
-Todorov, A. T., **Uddenberg, S. D.**, Peterson, J. C., Griffiths, T. L., & Suchow, J. W. (2022). *Data-driven, photorealistic social face-trait encoding, prediction, and manipulation using deep neural networks* (U.S. Patent No. 11,250,245). U.S. Patent and Trademark Office.
+Todorov, A. T., **Uddenberg, S. D.**, Peterson, J. C., Griffiths, T. L., & Suchow, J. W. (2022). *Data-driven, photorealistic social face-trait encoding, prediction, and manipulation using deep neural networks* (U.S. Patent No. 11,250,245). U.S. Patent and Trademark Office. <small class='weak'><a href="files/rise-of-ethical-license.pdf" style="color: grey">[About ethical licenses]</a></small>
