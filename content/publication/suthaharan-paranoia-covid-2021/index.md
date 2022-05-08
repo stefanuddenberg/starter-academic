@@ -32,7 +32,7 @@ publishDate: "2021-06-22T19:18:58-05:00"
 publication_types:
   - 2
 
-publication: "*Nature Human Behavior*"
+publication: "*Nature Human Behavior*, *5*(9), 1190-1202"
 doi: 10.1038/s41562-021-01176-8
 url_pdf: "files/Suthaharan-et-al-2021-NatHumBev.pdf"
 ---
