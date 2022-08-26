@@ -66,6 +66,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**Uddenberg, S.**, Thompson, B., Griffiths, T. L., &amp; Todorov, A. (under review). Iterated learning reveals stereotypes of facial trustworthiness that propagate in the absence of evidence.
+
+Albohn, D. N., **Uddenberg, S.**, &amp; Todorov, A. (under review). A data-driven, hyper-realistic method for visualizing individual mental representations of faces.
+
+Gandalf, N., **Uddenberg, S.**,  &amp; Todorov, A. (under revision). A comprehensive semantic space for describing and evaluating faces.
+
 **Uddenberg, S.**, &amp; Scholl, B. J. (under review). Angrier = Blacker?: The influence of emotional expression on the representation of race in faces, measured with serial reproduction.
 
 **Uddenberg, S.**, &amp; Scholl, B. J. (under review). Ten angry men: Serial reproduction reveals that angry faces are represented as more masculine.
@@ -73,5 +79,3 @@ subtitle = ""
 **Uddenberg, S.**, Newman, G. E., &amp; Scholl, B. J. (under revision). Perceptual averaging in visual communication: Ensemble representations in the perception of scientific data in graphs.
 
 Bai, X., **Uddenberg, S.**, Labbree, B., &amp; Todorov, A. (under review). Insta-learn: Face stereotypes emerge and persist through insufficient statistical learning.
-
-Gandalf, N., **Uddenberg, S.**,  &amp; Todorov, A. (under review). A comprehensive semantic space for describing and evaluating faces.
