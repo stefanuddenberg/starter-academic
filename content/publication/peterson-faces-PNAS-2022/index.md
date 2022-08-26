@@ -53,4 +53,6 @@ url_pdf: "files/Peterson-et-al-2022-PNAS-Faces.pdf"
 links:
   - name: Supplement
     url: "files/Peterson-et-al-2022-PNAS-Faces-Supp.pdf"
+  - name: Reflections
+    url: "https://medium.com/@pnas.2115228119/reflections-on-ml-models-of-first-impressions-5bd28d222ff6"
 ---
