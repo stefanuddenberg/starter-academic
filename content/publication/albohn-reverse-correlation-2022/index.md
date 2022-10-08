@@ -46,7 +46,7 @@ abstract:
   \ across a variety of attribute intensities. We provide a proof-of-concept study which examines\
   \ perceived trustworthiness/untrustworthiness and masculinity/femininity. We close with a\
   \ discussion of future work to substantiate our proposed method."
-publication: "*Frontiers in Psychology*, *13*, 1-14"
+publication: "*Frontiers in Psychology*, *13*:997498"
 # doi: 10.1037/xge0000446
 url_pdf: "files/Albohn-EtAl-Frontiers-2022.pdf"
 ---
