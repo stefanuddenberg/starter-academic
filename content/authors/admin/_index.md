@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Researcher
+role: Principal Researcher/Asst. Professor of Psychology (incoming)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: "https://research.chicagobooth.edu/cdr/post-doctoral/stefan-uddenberg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Principal Researcher at Chicago Booth. My research interests include mental defaults, face perception, and intuitive physics.
+bio: Principal Researcher at Chicago Booth and incoming Assistant Professor of Psychology at UIUC.
 
 interests:
   - Visual Cognition
@@ -73,8 +73,9 @@ user_groups:
   - Visitors
 ---
 
-Hello! I am a Principal Researcher at Chicago Booth, working on questions of social perception (with <a href="https://www.chicagobooth.edu/faculty/directory/t/alexander-todorov" target="_blank">Alex Todorov</a>). My primary research program explores the default assumptions wired into the mind, especially in the context of perception. It turns out that what we see is a process of unconscious inferences, where we take into account not only the exact nature of the light entering our eyes, but also a set of assumptions about the source that most likely generated or reflected that light. It is now becoming possible to reveal the nature of these assumptions through various techniques. One of my favorite techniques is the method of serial reproduction — essentially the children's game of 'Broken Telephone' — which I use to explore our default assumptions across several visual contexts, ranging from faces to intuitive physics.
+Hello! I am a Principal Researcher at Chicago Booth, working on questions of social perception (with <a href="https://www.chicagobooth.edu/faculty/directory/t/alexander-todorov" target="_blank">Alex Todorov</a>). In fall 2024, I'll be starting a lab at the University of Illinois Urbana-Champaign in the Attention & Perception program area.
 
+My primary research program explores the default assumptions wired into the mind, especially in the context of perception. It turns out that what we see is a process of unconscious inferences, where we take into account not only the exact nature of the light entering our eyes, but also a set of assumptions about the source that most likely generated or reflected that light. It is now becoming possible to reveal the nature of these assumptions through various techniques. One of my favorite techniques is the method of serial reproduction — essentially the children's game of 'Broken Telephone' — which I use to explore our default assumptions across several visual contexts, ranging from faces to intuitive physics.
 
 Most recently, I've also been working on building new face perception models, such that we can generate hyper-realistic face images, and transform such images along many perceived facial attributes of psychological interest. These models are important for elucidating and combating stereotypes and widespread discrimination. If you'd like to hear more about my work, listen to <a href="https://fireside.fm/episode/Ah1OZyuo+tV_dWiDz">this episode of the "Two Psychologists Four Beers" podcast</a>.
 
