@@ -70,9 +70,28 @@ subtitle = ""
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
 
-**Uddenberg, S.**, &amp; Todorov, A. (2022).  Exploring visual representations of race with deep generative models. Talk given at the 2022 Midwestern Psychological Association Conference, 04/21/22.
+**Uddenberg, S.**, Albohn, D. N., &amp; Todorov, A. (2023). Deep generative models of facial impressions
+at the population and idiosyncratic levels. Poster presented at the Workshop on Humans, Deep
+Networks & Facial Recognition, 3/13/23.
 
-**Uddenberg, S.**, &amp; Todorov, A. (2022). Revealing hidden biases in face representation via deceptively simple tasks. Talk given at Dartmouth College's Psychological &amp; Brain Sciences Department, 01/14/22.
+Albohn, D. N., **Uddenberg, S.**, &amp; Todorov, A. (2023). Photorealistic reverse correlation. Poster
+presented at the Society for Personality and Social Psychology, 2/23/23.
+
+**Uddenberg, S.** (2023). Revealing hidden biases in face representation via deceptively simple tasks. Talk given at Northwestern Medicine's Insitute for Augmented Intelligence in Medicine, 2/2/23.
+
+**Uddenberg, S.** (2023). Revealing hidden biases in face representation via deceptively simple tasks.
+Talk given at Barnard College's Department of Psychology, 1/23/23.
+
+**Uddenberg, S.** (2022). Revealing hidden biases in face representation via deceptively simple
+tasks. Talk given at University of Massachusetts Amherst's Department of Psychological and Brain
+Sciences, 12/9/22.
+
+**Uddenberg, S.** (2022). Revealing hidden biases in face representation via deceptively simple tasks.
+Talk given at University of Illinois Urabana-Champaign's Department of Psychology, 11/14/22.
+
+**Uddenberg, S.**, &amp; Todorov, A. (2022). Exploring visual representations of race with deep generative models. Talk given at the 2022 Midwestern Psychological Association Conference, 04/21/22.
+
+**Uddenberg, S.** (2022). Revealing hidden biases in face representation via deceptively simple tasks. Talk given at Dartmouth College's Psychological &amp; Brain Sciences Department, 01/14/22.
 
 **Uddenberg, S.**, Thompson, B., Vlasceanu, M., Griffiths, T. L., &amp; Todorov, A. (2021). A face you can trust?: Iterated learning reveals how stereotypes of facial trustworthiness may propagate in the absence of evidence. Talk given at the University of Massachusetts-Amherst's Cognitive Brownbag, 11/17/21.
 

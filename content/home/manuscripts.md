@@ -66,8 +66,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**Uddenberg, S.**, Thompson, B., Griffiths, T. L., &amp; Todorov, A. (under review). Iterated learning reveals stereotypes of facial trustworthiness that propagate in the absence of evidence.
-
 Gandalf, N., **Uddenberg, S.**,  &amp; Todorov, A. (under revision). A comprehensive semantic space for describing and evaluating faces.
 
 **Uddenberg, S.**, &amp; Scholl, B. J. (under review). Angrier = Blacker?: The influence of emotional expression on the representation of race in faces, measured with serial reproduction.
