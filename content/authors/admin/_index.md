@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Researcher/Asst. Professor of Psychology (incoming)
+role: Asst. Professor of Psychology (incoming @ UIUC) <br> Principal Researcher
 
 # Organizations/Affiliations
 organizations:
