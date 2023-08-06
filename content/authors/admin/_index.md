@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Asst. Professor of Psychology (incoming @ UIUC) <br> Principal Researcher
+role: Asst. Professor of Psychology (incoming @ UIUC) <br> Principal Researcher @ Chicago Booth
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +73,7 @@ user_groups:
   - Visitors
 ---
 
-Hello! I am a Principal Researcher at Chicago Booth, working on questions of social perception (with <a href="https://www.chicagobooth.edu/faculty/directory/t/alexander-todorov" target="_blank">Alex Todorov</a>). In fall 2024, I'll be starting a lab at the University of Illinois Urbana-Champaign in the Attention & Perception program area.
+Hello! I am a Principal Researcher at Chicago Booth, working on questions of social perception (with <a href="https://www.chicagobooth.edu/faculty/directory/t/alexander-todorov" target="_blank">Alex Todorov</a>). In fall 2024, I'll be starting a lab at the University of Illinois Urbana-Champaign in the Attention & Perception program area. **I will be accepting graduate students for the 2024-2025 academic year. If you are interested in joining my lab, please reach out!**
 
 My primary research program explores the default assumptions wired into the mind, especially in the context of perception. It turns out that what we see is a process of unconscious inferences, where we take into account not only the exact nature of the light entering our eyes, but also a set of assumptions about the source that most likely generated or reflected that light. It is now becoming possible to reveal the nature of these assumptions through various techniques. One of my favorite techniques is the method of serial reproduction — essentially the children's game of 'Broken Telephone' — which I use to explore our default assumptions across several visual contexts, ranging from faces to intuitive physics.
 
