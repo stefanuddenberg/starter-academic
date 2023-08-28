@@ -48,5 +48,5 @@ abstract:
   \ truly be done at a glance."
 publication: "*Attention, Perception, &amp; Psychophysics*, *83*(8), 3104-3117"
 # doi: 10.1037/xge0000446
-url_pdf: "files/Colombatto-EtAl-InPress-APP.pdf"
+url_pdf: "files/Colombatto-et-al-2021-APP.pdf"
 ---
