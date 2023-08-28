@@ -70,6 +70,10 @@ subtitle = ""
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
 
+**Uddenberg, S.**. Revealing hidden biases in face representation via deceptively simple tasks. Talk given at the Dartmouth College MIND Summer School, 8/13/23.
+
+**Uddenberg, S.**. Revealing hidden biases in face representation via deceptively simple tasks. Talk given at the University of Chicago Department of Psychology Cognitive Workshop, 4/26/23.
+
 **Uddenberg, S.**, Albohn, D. N., &amp; Todorov, A. (2023). Deep generative models of facial impressions
 at the population and idiosyncratic levels. Poster presented at the Workshop on Humans, Deep
 Networks & Facial Recognition, 3/13/23.
