@@ -70,6 +70,8 @@ subtitle = ""
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
 
+**Uddenberg, S.**. Revealing mental representations of leadership across political orientation. Talk given at the University of Massachusetts-Amherst Cognitive Brownbag, 11/1/23.
+
 **Uddenberg, S.**. Revealing hidden biases in face representation via deceptively simple tasks. Talk given at the Dartmouth College MIND Summer School, 8/13/23.
 
 **Uddenberg, S.**. Revealing hidden biases in face representation via deceptively simple tasks. Talk given at the University of Chicago Department of Psychology Cognitive Workshop, 4/26/23.
